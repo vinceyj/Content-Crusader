@@ -1,49 +1,23 @@
-How to Use Content Crusader
+Free Download Source Code "Content_Crusader"
 
-Getting Started
-Visit the Website: Go to the Content Crusader website.
-Sign Up: Create an account to personalize your experience and access premium content.
-Explore Resources: Browse through the available articles, tutorials, and expert insights.
-Key Features
-Content Creation:
+FIRST Download
 
-Articles and Guides: Read step-by-step guides on creating engaging blog posts, videos, infographics, and social media updates.
-Templates and Tools: Use provided templates and tools to streamline your content creation process.
-Staying Updated with Marketing Trends:
+1.XAMPP
 
-Latest Trends: Check out articles and updates on the latest marketing trends to keep your content relevant.
-Webinars and Workshops: Participate in live or recorded sessions to learn about new strategies and innovations.
-Developing Content Strategy:
+2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
 
-Strategy Guides: Access comprehensive guides on planning and managing your content strategy.
-Case Studies: Learn from successful case studies and apply those insights to your own strategy.
-Social Media Management:
+3"Content_Crusader"
 
-Platform Guides: Find detailed guides on how to leverage different social media platforms like Facebook, Twitter, Instagram, and LinkedIn.
-Scheduling Tools: Use recommended tools to schedule and automate your social media posts for better engagement.
-Enhancing SEO:
+4. Download the zip file/ download winrar
 
-SEO Basics: Learn the fundamentals of SEO and how to apply them to your content.
-Advanced Techniques: Explore advanced SEO techniques to further improve your content's visibility and ranking.
-Building Your Brand:
+5. Extract the file and copy "Content_Crusader" folder
 
-Branding Tips: Read tips and tricks on creating a unique and compelling brand identity.
-Voice and Tone: Understand how to develop a consistent voice and tone that resonates with your audience.
-Interactive Features
-Community Forums: Join forums to discuss topics, ask questions, and share experiences with other content creators.
-Feedback and Reviews: Get feedback on your content and provide reviews on the resources you use.
-Q&A Sessions: Participate in live Q&A sessions with industry experts to get personalized advice.
-Additional Resources
-Newsletters: Subscribe to newsletters to get the latest updates and exclusive content delivered to your inbox.
-E-books and Whitepapers: Download in-depth e-books and whitepapers on various aspects of content creation and digital marketing.
-Practical Tips
-Stay Consistent: Regularly visit the site to stay updated and continually improve your skills.
-Engage with the Community: Take advantage of the community features to learn from others and share your insights.
-Apply What You Learn: Implement the strategies and tips you learn to see real-world improvements in your content creation efforts.
-By following these steps and utilizing the resources available on Content Crusader, you can master the art of content creation and achieve your creative and professional goals in the digital landscape.
+6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
+7. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
+8. Create a database with name crusadersignup
 
+6. Import crusadersignup.sql file(given inside the zip package in SQL file folder)
 
-
-
+7.Run the script http://localhost/Content_Crusader
